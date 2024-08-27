@@ -1,7 +1,7 @@
 // Tipo de dato : string
 ''
 let string1='Hola, mundo '
-let string2 = "javascript es genial"
+let string2 = "javascript es Genial"
 let string3 = `${string1} feliz :`
 let string4 = string1+' '+string2
 
